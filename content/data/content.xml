@@ -1,0 +1,1179 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-126038.80319984513" y="-76921.45639442041" width="252077.60639969027" height="153842.91278884083"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="57_30863873" type="button" x="-26393.794554309672" y="2375.3180649366236" r="0" s="3.4195907863136283" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="214_13415665" type="image" x="19431.2164445466" y="3862.3510187782135" r="0" s="112.91112578646093">
+      <source w="351" h="392" bt="0.35" bl="84.05">841675051<url>841675051.swf</url></source>
+      <sourceUrl>island.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    <resource><id>841675051</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/8/c/ebbd795be50b8277776d89ffc85d4a09c33fc.swf</url></resource></object>
+    <object id="9_13415665" type="shape" x="-125945.11197826349" y="-76827.76517283877" r="0" s="4.684561079081856" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="10_13415665" type="shape" x="-125748.36041294204" y="-76827.76517283877" r="0" s="4.684561079081856" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="11_13415665" type="shape" x="125907.46004114312" y="-69688.48528489092" r="-52.57478893857372" s="4.6845610790818535" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="12_13415665" type="shape" x="125461.32327868718" y="73834.18426228437" r="-52.57478893857372" s="4.6845610790818535" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="13_13415665" type="shape" x="-110421.66324285546" y="76790.11323571841" r="-52.57478893857372" s="4.6845610790818535" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="63_30863873" type="persistentgroup" x="0" y="0" r="0" s="315.6331952321514">
+      <m o="214_13415665"/>
+      <m o="9_13415665"/>
+      <m o="10_13415665"/>
+      <m o="11_13415665"/>
+      <m o="12_13415665"/>
+      <m o="13_13415665"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="237_13415665" type="button" x="312.26236376707215" y="3909.0471916029155" r="0" s="83.68750882233348" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>983.5748475156576</w>
+        <h>554.5415775248889</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="215_13415665" type="image" x="-32854.86696022337" y="3909.2953964966796" r="0" s="74.6458078910969">
+      <source w="214" h="356" bt="22.4" bl="167.55">841675805<url>841675805.swf</url></source>
+      <sourceUrl>bird.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    <resource><id>841675805</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/d/5/791e2f715af139bdf8cc0bd1d5ccd26474c05.swf</url></resource></object>
+    <object id="216_13415665" type="image" x="14887.091159763819" y="-5451.457833768327" r="0" s="9.283408834621195">
+      <source w="164" h="277" bt="65.3" bl="177.3">841676263<url>841676263.swf</url></source>
+      <sourceUrl>deer.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    <resource><id>841676263</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/6/b2337ddc3a465a9412c3c23d667ce9c22f885.swf</url></resource></object>
+    <object id="34_30863873" type="button" x="2572.146559187835" y="8260.401910745722" r="-4.664754510048026" s="10.318175096498871" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.3088283557597</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="217_13415665" type="image" x="7092.138897255258" y="10076.314401000931" r="0" s="14.041622989002644">
+      <source w="194" h="384" bt="8.65" bl="176.05">841676405<url>841676405.swf</url></source>
+      <sourceUrl>ship.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    <resource><id>841676405</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/a/2/b51831202627b482a359601060011694b6dc1.swf</url></resource></object>
+    <object id="218_13415665" type="image" x="38139.52799383168" y="23712.864512156877" r="0" s="19.4576165140031">
+      <source w="328" h="328" bt="36" bl="110.55">841676583<url>841676583.swf</url></source>
+      <sourceUrl>star.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    <resource><id>841676583</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/6/7/2a8e9226237a9089f271196fd8027456e8bb2.swf</url></resource></object>
+    <object id="35_30863873" type="button" x="22314.504477643797" y="-10927.673890529639" r="3.749718399350939" s="3.459174761394488" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.3088283557597</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="45_30863873" type="button" x="20004.55258700411" y="9418.793227277349" r="0" s="2.4348254657535886" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="46_30863873" type="text" x="19985.603632666713" y="8730.874535875088" r="-1.601727615887787e-31" s="5.3677498477721635" class="strong">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Our Aim]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="47_30863873" type="text" x="20051.336916145483" y="9498.984982723989" r="-2.775982022719536e-31" s="3.0971645695065724" class="body">
+      <height>391.96799999999996</height>
+      <width>434.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Secure Login]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[View Database]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Search the entry in  the table of database using indexes or keyword]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Search for the entry from particular column]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Alter already present entry]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Add a new entry]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Delete entry already present]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Move the data to a different table]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Using Dump we can take backup ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="37_30863873" type="button" x="22925.96398462584" y="5551.461703148894" r="0" s="2.4348254657535886" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_30863873" type="text" x="22935.40816889864" y="4810.76523841703" r="-1.6017276158877867e-31" s="3.4954674536127697" class="strong">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Adminer ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="39_30863873" type="text" x="22897.479853022785" y="5367.360322580937" r="-2.775982022719535e-31" s="2.436918035037861" class="body">
+      <height>293.97599999999994</height>
+      <width>528.3237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Database Managment tool written in PHP]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Adminer consists of a single file that has to be deployed in the server side.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Adminer is available for Mysql, Mongo DB, PostgreSql, SqlLite etc.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Browser Based user Interface.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="42_30863873" type="button" x="17681.277918546362" y="3092.4114375721397" r="0" s="2.4348254657535886" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="43_30863873" type="text" x="17684.701781165426" y="2399.9368270805653" r="-1.601727615887787e-31" s="5.3677498477721635" class="strong">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Web Server ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="52_30863873" type="button" x="24244.61468697477" y="6993.489103816842" r="0" s="0.8873270647790042" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="51_30863873" type="shape" x="23592.19846005076" y="6685.605043974531" r="40.61451205166505" s="17.77309095283094" class="line3">
+      <geom type="line">
+        <sp>-14.051542886082336 -2.1809246537399387</sp>
+        <ep>14.051542886082336 -2.1809246537399387</ep>
+        <b>4.361849307479877</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="7" type="image" x="24131.07630215348" y="7229.755460558464" r="0" s="0.5764225137900024">
+      <source w="240" h="144">3042987595<url>3042987595.png</url></source>
+      <sourceUrl>php_logo.png</sourceUrl>
+    <resource><id>3042987595</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/b/7/8c8a821f559caea42a0d5767a08cdcf09ad4c.png</url></resource></object>
+    <object id="8" type="image" x="24319.821521568054" y="7229.674104860442" r="0" s="0.9325134212745478">
+      <source w="136" h="92">3042988900<url>3042988900.png</url></source>
+      <sourceUrl>mysql_logo.png</sourceUrl>
+    <resource><id>3042988900</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/4/01ff9c487d5f0098765e6443d20e24f8b3050.png</url></resource></object>
+    <object id="53_30863873" type="text" x="24246.466806933797" y="6780.147349811654" r="-1.6017276158877867e-31" s="1.9561770582260078" class="strong">
+      <height>65.3671875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Pre-Requisite of Adminer]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="5" type="image" x="24131.15765785151" y="7112.277832612499" r="0" s="0.48156105114916464">
+      <source w="291" h="173">3042986062<url>3042986062.jpg</url></source>
+      <sourceUrl>linux_logo.jpg</sourceUrl>
+    <resource><id>3042986062</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/6/3/377fd8dadc3f9575c86315cbf584b2d9e4128.jpg</url></resource></object>
+    <object id="6" type="image" x="24319.821521568054" y="7112.277832612496" r="0" s="0.4862791267824268">
+      <source w="248" h="203">3042986536<url>3042986536.jpg</url></source>
+      <sourceUrl>apache_webserver_logo.jpg</sourceUrl>
+    <resource><id>3042986536</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/9/6a642df3f83a690924fb0e548e7583ea1e5e9.jpg</url></resource></object>
+    <object id="54_30863873" type="text" x="24267.021673550786" y="6932.31902858446" r="-2.7759820227195356e-31" s="1.3810790278443037" class="body">
+      <height>130.656</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Operating System]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Web Server]]></text>
+      </p>
+      <p>
+        <text><![CDATA[PHP]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Mysql]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="56_30863873" type="text" x="-26414.733477088477" y="2327.9416693654844" r="0" s="16.328779707305365" class="strong">
+      <height>32.68359375</height>
+      <width>-123.71484375</width>
+      <p>
+        <text><![CDATA[Thank you!]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="58_30863873" type="text" x="2058.97154712017" y="6023.330184439983" r="-4.664754510048036" s="14.318069144137873" class="strong">
+      <height>65.3671875</height>
+      <width>398.0021017453043</width>
+      <p align="center">
+        <text><![CDATA[Index]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="59_30863873" type="text" x="2526.8266249126295" y="8760.625630267114" r="-4.664754510048049" s="9.938717263583527" class="body">
+      <height>424.6319999999999</height>
+      <width>515.8746940925018</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Our Aim]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Adminer and Features]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Pre-Requisite of Adminer]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Web Server ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Installation ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[ Testing]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[PHP]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Installation]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Test]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Adminer]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Installation ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Test]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="12" type="image" x="22321.074732526118" y="-10922.165171054148" r="3.7497183993509395" s="2.043068730166631">
+      <source w="770" h="179">3043009144<url>3043009144.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fc%2Fc%2F9%2Fd49704c90be02b8253cba4a362bf4041d501f.png</sourceUrl>
+    <resource><id>3043009144</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/9/d49704c90be02b8253cba4a362bf4041d501f.png</url></resource></object>
+    <object id="13" type="image" x="22101.658414956673" y="-10541.908638492194" r="3.749718399350939" s="5.402345199959842">
+      <source w="364" h="40">3043012594<url>3043012594.jpg</url></source>
+      <sourceUrl>http_conf.jpg</sourceUrl>
+    <resource><id>3043012594</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/3/a87951758e67563e6f3aa29f16902c03adc30.jpg</url></resource></object>
+    <object id="14" type="image" x="22252.08510060217" y="-9976.161114436609" r="3.749718399350939" s="4.682032506631863">
+      <source w="420" h="36">3043015813<url>3043015813.JPG</url></source>
+      <sourceUrl>url_browser.JPG</sourceUrl>
+    <resource><id>3043015813</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/e/7/006a5c119fc83e90fa822507943f22f0cd613.JPG</url></resource></object>
+    <object id="60_30863873" type="text" x="22324.470854543506" y="-11837.799405257054" r="3.7497183993509413" s="6.059878709340117" class="strong">
+      <height>32.68359375</height>
+      <width>398.0021017453043</width>
+      <p align="center">
+        <text><![CDATA[Adminer ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="64_30863873" type="text" x="-16819.45275912678" y="-14015.08195267328" r="0" s="152.89976792594572" class="head">
+      <height>32.664</height>
+      <width>270.7421875</width>
+      <p>
+        <text><![CDATA[Adminer]]></text>
+      </p>
+    </object>
+    <object id="65_30863873" type="text" x="-23933.410899809827" y="-7793.047342631489" r="0" s="75.68390211319863" class="strong">
+      <height>32.68359375</height>
+      <width>358.80738236207793</width>
+      <p>
+        <text><![CDATA[Database Managment Tool]]></text>
+      </p>
+    </object>
+    <object id="66_30863873" type="shape" x="13746.332035356176" y="10915.591384199046" r="-5.00107053030922" s="24.88232733396331" class="line3">
+      <geom type="arrow">
+        <sp>-214.3804282278711 -25.29057765097727</sp>
+        <ep>214.3804282278711 -25.29057765097727</ep>
+        <b>50.58115530195454</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="67_30863873" type="shape" x="21652.68051317476" y="7620.947198353018" r="-53.96101690616125" s="24.882327333963296" class="line3">
+      <geom type="arrow">
+        <sp>-54.4108898369288 -2.8495632742225454</sp>
+        <ep>54.4108898369288 -2.8495632742225454</ep>
+        <b>5.699126548445091</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="68_30863873" type="shape" x="19969.897433135688" y="4963.994838487391" r="23.494760743770666" s="24.882327333963314" class="line3">
+      <geom type="arrow">
+        <sp>78.764690113294 -8.37118411735348</sp>
+        <ep>-78.764690113294 -8.371184117353486</ep>
+        <b>-16.742368234706966</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="69_30863873" type="shape" x="16660.4315229191" y="3994.85716610714" r="-30.00000000000019" s="17.773090952830934" class="line3">
+      <geom type="line">
+        <sp>-14.3447739076283 -2.1809246537399387</sp>
+        <ep>14.3447739076283 -2.1809246537399387</ep>
+        <b>4.361849307479877</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_30863873" type="button" x="20986.678573544083" y="1447.6432906305718" r="0" s="2.4348254657535886" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="71_30863873" type="text" x="20966.42100473642" y="737.5707582812561" r="-1.601727615887787e-31" s="5.3677498477721635" class="strong">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[PHP]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="11" type="image" x="20867.655187335866" y="1687.3171770078743" r="0" s="3.496056146459894">
+      <source w="140" h="27">3043002727<url>3043002727.JPG</url></source>
+      <sourceUrl>phptext.JPG</sourceUrl>
+    <resource><id>3043002727</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/0/0/6abe998defcb0923a96918312315e976126f6.JPG</url></resource></object>
+    <object id="72_30863873" type="text" x="20994.814143346634" y="1493.2024815237464" r="-2.7759820227195356e-31" s="1.612039768649427" class="body">
+      <height>783.9359999999998</height>
+      <width>864.223778482768</width>
+      <p>
+        <text><![CDATA[Install PHP]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[sudo yum install php]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Restart httpd server]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[service httpd restart]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Test]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Test PHPGo to /var/www/html/ directory: ]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[# cd /var/www/html/]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Create a php file: ]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[#vi phptest.php]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Append following lines:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Save and close the file.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Open web browser and type the url:]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[ http://localhost/phptest.php ]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[or]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[ http://server-ip-address/phptest.php.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="73_30863873" type="shape" x="19716.915134784835" y="3203.172705597292" r="-29.999999999999904" s="24.8823273339633" class="line3">
+      <geom type="arrow">
+        <sp>-46.34929677583413 -8.275394287562712</sp>
+        <ep>46.349296775834134 -8.275394287562712</ep>
+        <b>16.550788575125424</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="74_30863873" type="shape" x="18345.665313074474" y="1173.8055508412701" r="23.443638540751042" s="24.882327333963307" class="line3">
+      <geom type="arrow">
+        <sp>67.1833159027792 -7.431239333390217</sp>
+        <ep>-67.18331590277921 -7.43123933339022</ep>
+        <b>-14.862478666780436</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>discovery2</parentTemplate>
+      </meta>
+    </object>
+    <object id="0" type="button" x="22909.041999436944" y="6016.08409456124" r="0" s="0.7224365866760447" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>785.9645733537427</w>
+        <h>589.4734300153068</h>
+      </size>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="1" type="button" x="22848.99772806546" y="6016.397696854603" r="0" s="0.5240668255840002" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="3" type="text" x="22848.95040610171" y="5850.058196006046" r="0" s="1.155343437473168" class="strong">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Features]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="1"/>
+      </layout>
+    </object>
+    <object id="4" type="text" x="22939.916313092875" y="5999.692680255038" r="0" s="0.4201807050713613" class="body">
+      <height>522.6239999999999</height>
+      <width>1090.823778482768</width>
+      <p>
+        <text><![CDATA[• Connect to a database server with username and password]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Select an existing database or create a new one ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Alter name, type, collation, comment and default values of columns ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Add and drop tables and columns]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Create, alter, drop and search by indexes including full text.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Insert new records, update and delete the existing ones]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Supports all data types, blobs through file transfer ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Execute any SQL command from a text field or a file ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Export table structure, data, views, routines, databases to]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ SQL or CSV (as backup)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Print database schema connected by foreign keys ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Show processes and kill them]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Display users and rights and change them]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Display variables with links to documentation ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Manage events and table partitions (MySQL 5.1) ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Schemas, sequences, user types (PostgreSQL)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="1"/>
+      </layout>
+    </object>
+    <object id="9" type="text" x="17689.00670985876" y="2829.0615260245627" r="0" s="2.2993490008263486" class="body">
+      <height>261.312</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Command to install httpd]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[sudo yum install httpd]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ Start the httpd]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[service httpd start]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[If installed Successfully, when httpd start command is given]]></text>
+      </p>
+    </object>
+    <object id="10" type="image" x="17681.35927424455" y="3338.5124240933164" r="0" s="2.629550342282228">
+      <source w="659" h="70">3042998065<url>3042998065.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fc%2F1%2F4%2F03f2f567502334ccda170d4369365778951a3.png</sourceUrl>
+    <resource><id>3042998065</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/1/4/03f2f567502334ccda170d4369365778951a3.png</url></resource></object>
+    <object id="61_30863873" type="text" x="22336.67497588563" y="-10833.887037342918" r="3.749718399350941" s="3.062188420155464" class="body">
+      <height>587.9519999999999</height>
+      <width>801.3246940925019</width>
+      <p>
+        <text><![CDATA[Make a directory for Adminer : ]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[#mkdir /usr/share/webapps/adminer]]></text>
+      </p>
+      <p>
+        <text><![CDATA[download adminer.php to that directory (as index.php)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Configuration:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Copy the following into ]]></text>
+        <text style="italic"><![CDATA['/etc/httpd/conf/extra/httpd-adminer.conf ]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[adding the following line to ]]></text>
+        <text style="italic"><![CDATA[/etc/httpd/conf/httpd.conf]]></text>
+        <text><![CDATA[ (Add screen shot)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Finally restart Apache:]]></text>
+      </p>
+      <p align="center">
+        <text style="italic"><![CDATA[service httpd restart]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Navigating to Adminer's login page by going to the following address on your web browser: (this is only when we run on local machine) ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="237_13415665"/>
+    </s>
+    <s>
+      <eagle o="34_30863873"/>
+    </s>
+    <s>
+      <eagle o="45_30863873"/>
+    </s>
+    <s>
+      <eagle o="37_30863873"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="52_30863873"/>
+    </s>
+    <s>
+      <eagle o="42_30863873"/>
+    </s>
+    <s>
+      <eagle o="70_30863873"/>
+    </s>
+    <s>
+      <eagle o="35_30863873"/>
+    </s>
+    <s>
+      <eagle o="237_13415665"/>
+    </s>
+    <s>
+      <eagle o="57_30863873"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Alegreya-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('Alegreya-BoldItalic.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Alegreya-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('Alegreya-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+.line1
+{
+	color: #a6411c;
+	gradEndColor: #a6411c;
+	gradStartColor: #a6411c;
+}
+
+.line2
+{
+	color: #6e8254;
+	gradEndColor: #6e8254;
+	gradStartColor: #6e8254;
+}
+
+.line3
+{
+	color: #cce1b1;
+	gradEndColor: #cce1b1;
+	gradStartColor: #cce1b1;
+}
+
+.line4
+{
+	color: #7494cf;
+	gradEndColor: #7494cf;
+	gradStartColor: #7494cf;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	color: #9bb58c;
+	gradEndColor: #a6411c;
+	gradStartColor: #a6411c;
+}
+
+.poly2
+{
+	color: #9bb58c;
+	gradEndColor: #6e8254;
+	gradStartColor: #6e8254;
+}
+
+.poly3
+{
+	color: #9bb58c;
+	gradEndColor: #cce1b1;
+	gradStartColor: #cce1b1;
+}
+
+.poly4
+{
+	color: #9bb58c;
+	gradEndColor: #7494cf;
+	gradStartColor: #7494cf;
+}
+
+.poly5
+{
+	color: #9bb58c;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #9bb58c;
+	gradStart: #9bb58c;
+}
+
+Grid
+{
+	color: #c0e0ad;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 0.9;
+	gradEndColor: #a6411c;
+	gradStartAlpha: 0.9;
+	gradStartColor: #a6411c;
+	padding: 1.03;
+	thickness: 9;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 10;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #664c44;
+	borderThickness: 0;
+	gradEndAlpha: .85;
+	gradEndColor: #eddfb8;
+	gradStartAlpha: .85;
+	gradStartColor: #eddfb8;
+	padding: 1.03;
+	radius: 1;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.7;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #6e8254;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #a6411c;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #c7e2b5;
+	background-padding: 4;
+}
+
+ZLine
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #eddf36;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>2e3de232</hash>
+<sync><oid>e48zsdc-7wfa</oid><title>adminer</title><hash>2e3de232</hash></sync><config>dWilSZh/9uw01tKvFzbSCXsj1ZVZwyCD0FLKuir2mL6tVtWna0ysyiRAUCxs+srhq0UCIqiVbutxItovX56XQmIAc1qpaH8x50EHkoaRsyPzDID5gipOX+n7q5mUlYyconYf7+xv9qcf56C/PQScq29t4irllz72joEaxDdauoQDj0XF5r2uJVahTpa6Z6rXX3I+qMo58SDBSdy5GD2opczc5xuwP64zHTbxyTN774NoQmhcViVLkqHEYLk1TH+BSwxVu7DLElibhFwfnBS8tqFfVkk1DU2tGUqeLzGVs7zMvr+LVgtan/rghcGm5BaK9USm8R6GBXyq/AKu37pMIA==</config></zuiprezi>
